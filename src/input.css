@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --cor-fundo-menta: #dce9e2;
+    --cor-fundo-bege: #fffaf1;
+    --cor-menta: #00856f;
+    --cor-texto-cinza: #212529;
+    --cor-texto-cinza-claro: #343A40;
+}
